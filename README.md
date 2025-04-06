@@ -9,4 +9,4 @@ A simple calculator built with [your tech stack, e.g., HTML, CSS, JavaScript].
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/MohamedAyoubKarroud/codealpha_tasks-
